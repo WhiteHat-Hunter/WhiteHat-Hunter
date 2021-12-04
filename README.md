@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif)
+![Alt Text](https://cdn.cloudflare.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif?t=1632934906)
 
 ### Hello there, I'm Siddhesh 👋
 
