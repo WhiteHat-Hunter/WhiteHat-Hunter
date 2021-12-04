@@ -1,4 +1,4 @@
-![Alt Text](https://cdn.cloudflare.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif?t=1632934906)
+![Alt Text](https://i.cdn.turner.com/money/technology/superhero-hackers/confessions-of-a-hacktivist/media/animated-gifs/hacktivist_scn03_120315.gif)
 
 ### Hello there, I'm Siddhesh 👋
 
