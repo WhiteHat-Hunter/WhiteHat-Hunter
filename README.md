@@ -10,6 +10,6 @@
 
 <br>
 
-<a href="https://instagram.com/ft.siddhesh"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="mailto:mr.siddhesh07@gmail.com?subject=Hello%20Siddhesh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://instagram.com/ft.siddhesh"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" align="center"/></a>&nbsp;
+<a href="mailto:mr.siddhesh07@gmail.com?subject=Hello%20Siddhesh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center"/></a>&nbsp;
 <br>
