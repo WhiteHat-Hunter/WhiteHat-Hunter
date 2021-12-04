@@ -1,18 +1,15 @@
-![Alt Text](https://i.cdn.turner.com/money/technology/superhero-hackers/confessions-of-a-hacktivist/media/animated-gifs/hacktivist_scn03_120315.gif)
+![H4CKER](https://i.cdn.turner.com/money/technology/superhero-hackers/confessions-of-a-hacktivist/media/animated-gifs/hacktivist_scn03_120315.gif)
+<p>
+<h1 align="center"><b>Hello there, I'm Siddhesh 👋</b></h1>
+</p>
 
-<align='center' ### Hello there, I'm Siddhesh 👋>
 
-<!--
-**WhiteHat-Hunter/WhiteHat-Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/WhiteHat-Hunter/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/ft.siddhesh"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:mr.siddhesh07@gmail.com?subject=Hello%20Siddhesh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<br>
