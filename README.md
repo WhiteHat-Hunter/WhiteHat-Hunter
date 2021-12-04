@@ -22,7 +22,7 @@
 - 💬 Ask Me Anything, related to Cyber Security and Ethical Hacking, Ready to Help. 😄
 -  📬 Contact me : Whatsapp - +91 9172814140.
 <br>
-<p align="center">
+
 ![THANKYOU](https://media4.giphy.com/media/95P1vO6r7rsk0/giphy.gif)
-</p>    
+   
 <br>
