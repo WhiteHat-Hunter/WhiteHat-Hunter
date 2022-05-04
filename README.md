@@ -23,7 +23,7 @@
 <ul align="center">- 🌱 I'm Also a Certified Ethical Hacker & Bug Bounty Hunter.</ul>
 <ul align="center">- 🎯 2022 Goal: Hands on to Professional Project for Resume.</ul>
 <ul align="center">- 💬 Ask Me Anything, related to Cyber Security and Ethical Hacking, Ready to Help. 😄</ul>
-<ul align="center">-  📬 Contact me : Whatsapp - wa.me/+919172814140</ul>
+<ul align="center">-  📬 Contact me : Whatsapp - https://wa.me/+919172814140</ul>
 
 <br>
 
