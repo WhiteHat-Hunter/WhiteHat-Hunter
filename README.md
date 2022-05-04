@@ -3,7 +3,6 @@
 <h1 align="center"><b>Hello there, I'm Siddhesh Surve 👋</b></h1>
 </p>
 
-
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/WhiteHat-Hunter/count.svg" />
 </p>
@@ -15,16 +14,16 @@
 <p align="center">
 <a href="https://instagram.com/ft.siddhesh"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
 <a href="mailto:mr.siddhesh07@gmail.com?subject=Hello%20Siddhesh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href"https://www.linkedin.com/in/siddhesh-surve-785387231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100080158616594"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+<a href"https://www.linkedin.com/in/siddhesh-surve-785387231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 </p>    
 <br>
 
 <ul align="center">- 🔭 I'm A Computer Science Student.</ul>
-<ul align="center">- 🌱 I'm Also a Certified Ethical Hacker & Bug Bounty Hunter.</ul
+<ul align="center">- 🌱 I'm Also a Certified Ethical Hacker & Bug Bounty Hunter.</ul>
 <ul align="center">- 🎯 2022 Goal: Hands on to Professional Project for Resume.</ul>
 <ul align="center">- 💬 Ask Me Anything, related to Cyber Security and Ethical Hacking, Ready to Help. 😄</ul>
-<ul align="center">-  📬 Contact me : Whatsapp - +91 9172814140.</ul>
+<ul align="center">-  📬 Contact me : Whatsapp - wa.me/+919172814140</ul>
 
 <br>
 
@@ -44,6 +43,6 @@
 <br>
 <br>
 
-<h1 style=align:"center;">THANK YOU FOR VISITING!</h1>
+<h1 align="center">THANK YOU FOR VISITING!</h1>
    
 <br>
