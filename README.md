@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://instagram.com/ft.siddhesh"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
 <a href="mailto:mr.siddhesh07@gmail.com?subject=Hello%20Siddhesh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href"https://www.linkedin.com/in/siddhesh-surve-785387231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 </p>    
 <br>
 
@@ -23,6 +24,6 @@
 -  📬 Contact me : Whatsapp - +91 9172814140.
 <br>
 
-<h1 style=text-align:"center">THANK YOU!</h1>
+<h1 style=align:"center">THANK YOU!</h1>
    
 <br>
