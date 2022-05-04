@@ -23,6 +23,6 @@
 -  📬 Contact me : Whatsapp - +91 9172814140.
 <br>
 
-![THANKYOU](https://media4.giphy.com/media/95P1vO6r7rsk0/giphy.gif)
+![THANKYOU](https://i.pinimg.com/originals/cf/90/bb/cf90bb1b741ff44adde054a2e12b82e6.gif)
    
 <br>
