@@ -1,10 +1,10 @@
 
 <p>
-    <img align="center" alt="gif" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif" width="600" height="400"/>
+    <img align="center" alt="gif" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="1015" height="550"/>
 </p>
 
 <p>
-<h1 align="center"><b>Hello there, I'm Siddhesh Surve 👋</b></h1>
+<h1 align="center"><b>Hello there, I'm Siddhesh Surve <img alt="gif" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="55" height="60"/></b></h1>
 </p>
 
 <p align="center">
