@@ -1,6 +1,6 @@
 
 <p>
-    <img align="center" alt="gif" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="1015" height="530"/>
+    <img align="center" alt="gif" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="1015" height="510"/>
 </p>
 
 <p>
@@ -20,6 +20,7 @@
 <a href="mailto:mr.siddhesh07@gmail.com?subject=Hello%20Siddhesh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100080158616594"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
 <a href"https://www.linkedin.com/in/siddhesh-surve-785387231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href"https://twitter.com/Siddhes66941635"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
 </p>    
 <br>
 
