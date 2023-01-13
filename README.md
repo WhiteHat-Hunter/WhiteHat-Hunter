@@ -1,4 +1,8 @@
-![H4CKER](https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif)
+
+<p>
+    <img align="center" alt="gif" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif" width="600" height="400"/>
+</p>
+
 <p>
 <h1 align="center"><b>Hello there, I'm Siddhesh Surve 👋</b></h1>
 </p>
