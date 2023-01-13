@@ -1,6 +1,6 @@
 
 <p>
-    <img align="center" alt="gif" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="1015" height="550"/>
+    <img align="center" alt="gif" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="1015" height="530"/>
 </p>
 
 <p>
