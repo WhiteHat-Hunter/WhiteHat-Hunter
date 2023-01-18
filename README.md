@@ -3,6 +3,8 @@
     <img align="center" alt="gif" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="1015" height="510"/>
 </p>
 
+<br>
+
 <p>
 <h1 align="center"><b>Hello there, I'm Siddhesh Surve <img alt="gif" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="55" height="60"/></b></h1>
 </p>
@@ -11,6 +13,8 @@
 <br>
 
 <h2 align="center">About Me</h2>
+
+<br>
 
 <ul align="center">- 🔭 I'm A Computer Science Student.</ul>
 <ul align="center">- 🌱 I'm Also a Certified Ethical Hacker & Bug Bounty Hunter.</ul>
@@ -25,6 +29,8 @@
 
 <h1 align="center">CONNECT WITH ME: </h1>
 
+<br>
+
 <p align="center">
 <a href="https://twitter.com/siddhes66941635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhes66941635" height="30" width="40" /></a>&nbsp;
 <a href="https://linkedin.com/in/siddhesh-surve-785387231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-surve-785387231" height="30" width="40" /></a>&nbsp;
@@ -35,7 +41,7 @@
 
 <br>
 
-<h2 align="center"> Profile Visits </h2>
+<h1 align="center"> Profile Visits </h1>
 
 <br>
 
@@ -47,11 +53,15 @@
 
 <h1 align="center">Achievements</h1>
 
+<br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehat-hunter" alt="whitehat-hunter" /></a> </p>
 
 <br>
 
 <h1 align="center">SKILLS</h1>
+
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
@@ -72,7 +82,7 @@
 <br>
 <br>
 
-<h2 align="center"> Profile Statistics </h2>
+<h1 align="center"> Profile Statistics </h1>
 
 <br>
 
@@ -82,7 +92,7 @@
 <br>
 <br>
 
-<h2 align="center">Want to Support Me ?</h2>
+<h1 align="center">Want to Support Me ?</h1>
 
 <br>
 
@@ -97,5 +107,3 @@
 <h2 align="center">
 <img src="https://email.uplers.com/blog/wp-content/uploads/2017/08/ThankYou-Email-Engagement-Thumbnail.jpg" alt="ThankYou"/>&nbsp;
 </h2>
-
-<br>
