@@ -18,8 +18,7 @@
 
 <ul align="center">- 🔭 I'm A Post Graduated Computer Science Student.</ul>
 <ul align="center">- 🌱 I'm Also a Certified Ethical Hacker & Bug Bounty Hunter.</ul>
-<ul align="center">- 🎯 2025 Goal: Capture a Professional Security Attack Vector.</ul>
-<ul align="center">- 👯 I’m looking to collaborate on Cyber Forensics</ul>
+<ul align="center">- 🎯 2026 Goal: Become a Professional Red Team Operator.</ul>
 <ul align="center">- 💬 Ask Me Anything, related to Cyber Security and Penetration Testing, Ready to Help. 😄</ul>
 <ul align="center">- 📫 Reach me on - mailto:mr.siddhesh07@gmail.com </ul>
 <ul align="center">-  📞 Contact me : Whatsapp - https://wa.me/+919172814140</ul>
