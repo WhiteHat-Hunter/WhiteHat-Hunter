@@ -69,7 +69,7 @@
 
 <br>
 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=WhiteHat-Hunter&theme=dracula)](https://git.io/streak-stats)&nbsp;</p>
+<p align="center"><img alt="stats" src="https://streak-stats.demolab.com?user=WhiteHat-Hunter&theme=dracula"/> &nbsp;</p>
 
 <br>
 <br>
@@ -91,7 +91,7 @@
 </h2>
 
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>&nbsp;
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>
 </h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line"/>
