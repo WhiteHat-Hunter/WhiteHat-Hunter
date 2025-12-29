@@ -5,11 +5,8 @@
 
 <br>
 
-<p align="center">
-<img alt="hello" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDc3NjYsIm5iZiI6MTc2NzAwNzQ2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExMjQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNGY0MzU4YzUxNmI2Y2FlYjZmYzMyOTI5NzQzZGRiYWI5NjhmZTBmMTk2YTlhNjA1M2ZiMzIyMDRmMjkzOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fucfi6HQvzhRxsdCZoxOG8JhmvfWCW5ZTGAOGGEghvM" width="200" height="170"/>
-</p>
 <p>
-<h1 align="center"><b> I'm Siddhesh Surve [ ROOT X SIDZ ] <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="60" height="60"/></b></h1>
+<h1 align="center"><b> <img alt="hello" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDc3NjYsIm5iZiI6MTc2NzAwNzQ2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExMjQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNGY0MzU4YzUxNmI2Y2FlYjZmYzMyOTI5NzQzZGRiYWI5NjhmZTBmMTk2YTlhNjA1M2ZiMzIyMDRmMjkzOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fucfi6HQvzhRxsdCZoxOG8JhmvfWCW5ZTGAOGGEghvM" width="200" height="170"/> I'm Siddhesh Surve [ ROOT X SIDZ ] <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="60" height="60"/></b></h1>
 </p>
 
 
