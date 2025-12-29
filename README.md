@@ -4,11 +4,11 @@
 </p>
 
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line"/>
 
 <p>
 <h1 align="center"><b> <img alt="hello" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDc3NjYsIm5iZiI6MTc2NzAwNzQ2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExMjQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNGY0MzU4YzUxNmI2Y2FlYjZmYzMyOTI5NzQzZGRiYWI5NjhmZTBmMTk2YTlhNjA1M2ZiMzIyMDRmMjkzOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fucfi6HQvzhRxsdCZoxOG8JhmvfWCW5ZTGAOGGEghvM" width="110" height="90"/> I'm Siddhesh Surve [ ROOT X SIDZ ] <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="60" height="60"/></b></h1>
 </p>
-
 
 <br>
 
@@ -23,8 +23,6 @@
 <ul align="center">- 📫 Reach me on - mailto:mr.siddhesh07@gmail.com </ul>
 <ul align="center">-  📞 Contact me : Whatsapp - https://wa.me/+919172814140</ul>
 <ul align="center">- ⚡ Fun fact  -  " The First Computer Virus was a Creeper. "</ul>
-
-
 
 <br>
 
@@ -90,7 +88,7 @@
 <img src="http://i.ibb.co/1fhX9TGM/Quote.png" alt="Quote"/>&nbsp;
 </h2>
 
-
-<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line"/>
