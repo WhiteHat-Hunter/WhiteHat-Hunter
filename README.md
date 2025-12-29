@@ -69,7 +69,7 @@
 
 <br>
 
-<p align="center">  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nightowl&fontFamily=Chakra%20Petch&preferLogin=false">    <img  alt="WhiteHat-Hunter's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/WhiteHat-Hunter?cardType=level-alternate&theme=nightowl&fontFamily=Chakra%20Petch&preferLogin=false" />  </a> &nbsp;</p>
+<p align="center"><img  alt="WhiteHat-Hunter's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/WhiteHat-Hunter?cardType=level-alternate&theme=nightowl&fontFamily=Chakra%20Petch&preferLogin=false" />  </a> &nbsp;</p>
 
 <br>
 <br>
