@@ -69,7 +69,7 @@
 
 <br>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WhiteHat-Hunter&theme=dracula&border_radius=4" alt="GitHub Streak" /></a> &nbsp;</p>
+<p align="center">  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nightowl&fontFamily=Chakra%20Petch&preferLogin=false">    <img  alt="WhiteHat-Hunter's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/WhiteHat-Hunter?cardType=level-alternate&theme=nightowl&fontFamily=Chakra%20Petch&preferLogin=false" />  </a> &nbsp;</p>
 
 <br>
 <br>
