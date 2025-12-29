@@ -69,7 +69,7 @@
 
 <br>
 
-<p align="center"><img alt="stats" src="https://streak-stats.demolab.com?user=WhiteHat-Hunter&theme=dracula"/> &nbsp;</p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WhiteHat-Hunter&theme=dracula&border_radius=4" alt="GitHub Streak" /></a> &nbsp;</p>
 
 <br>
 <br>
