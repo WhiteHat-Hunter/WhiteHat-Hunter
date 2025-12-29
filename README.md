@@ -1,18 +1,21 @@
 
 <p>
-    <img align="center" alt="gif" src="https://c.tenor.com/54mjjpuowCgAAAAC/tenor.gif" width="1015" height="510"/>
+    <img align="center" alt="gif" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1015" height="510"/>
 </p>
 
 <br>
 
 <p>
-<h1 align="center"><b>Hello there, I'm Siddhesh Surve <img alt="gif" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="55" height="60"/></b></h1>
+<img align="center" alt="hello" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDc3NjYsIm5iZiI6MTc2NzAwNzQ2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExMjQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNGY0MzU4YzUxNmI2Y2FlYjZmYzMyOTI5NzQzZGRiYWI5NjhmZTBmMTk2YTlhNjA1M2ZiMzIyMDRmMjkzOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fucfi6HQvzhRxsdCZoxOG8JhmvfWCW5ZTGAOGGEghvM" width="50" height="45"/>
+</p>
+<p>
+<h1 align="center"><b> I'm Siddhesh Surve <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" height="30"/></b></h1>
 </p>
 
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2 align="center"> ~ About Me 🙋🏻‍♂️ </h2>
 
 <br>
 
@@ -24,48 +27,34 @@
 <ul align="center">-  📞 Contact me : Whatsapp - https://wa.me/+919172814140</ul>
 <ul align="center">- ⚡ Fun fact  -  " The First Computer Virus was a Creeper. "</ul>
 
-<br>
-
-<h1 align="center">CONNECT WITH ME: </h1>
-
-<br>
-
-<p align="center">
-<a href="https://twitter.com/siddhes66941635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhes66941635" height="30" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/siddhesh-surve-785387231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-surve-785387231" height="30" width="40" /></a>&nbsp;
-<a href="https://fb.com/100080158616594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100080158616594" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/ft.siddhesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft.siddhesh" height="30" width="40" /></a>&nbsp;
-</p>
 
 
 <br>
 
-<h1 align="center"> Profile Visits </h1>
+<h1 align="center"> 👁️ Profile Visits </h1>
 
 <br>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/WhiteHat-Hunter/count.svg" />
+    <img align="center" alt="visitors" src="https://profile-counter.deno.dev/WhiteHat-Hunter/count.svg" />
 </p>
 
 <br>
 
-<h1 align="center">Achievements</h1>
+<h1 align="center"> 🏆 Achievements </h1>
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehat-hunter" alt="whitehat-hunter" /></a> </p>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=WhiteHat-Hunter" alt="whitehat-hunter" /></a> </p>
 
 <br>
 
-<h1 align="center">SKILLS</h1>
+<h1 align="center"> 🎯 SKILLS </h1>
 
 <br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
@@ -74,35 +63,36 @@
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>&nbsp;
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Batch"/>&nbsp;
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>&nbsp;
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
-<img src="https://aleen42.github.io/badges/src/photoshop.svg" width="125" height="27" alt="Photoshop"/>&nbsp;
 </p>
 
 <br>
 <br>
 
-<h1 align="center"> Profile Statistics </h1>
+<h1 align="center"> 📊 Profile Statistics </h1>
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehat-hunter&show_icons=true&locale=en&layout=compact" alt="whitehat-hunter" />&nbsp;</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=whitehat-hunter&show_icons=true&locale=en" alt="whitehat-hunter" />&nbsp;</p>
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=WhiteHat-Hunter&theme=dracula)](https://git.io/streak-stats)&nbsp;</p>
 
 <br>
 <br>
 
-<h1 align="center">Want to Support Me ?</h1>
+<h1 align="center"> 🪙 Want to Support Me ❓</h1>
 
 <br>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/mrsiddhesh" target="blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/></a>&nbsp;
 <a href="https://www.paypal.me/mrsiddhesh07" target="blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>&nbsp;
 </p>
 
 <br>
 
+<h1 align="center"> ✍️ Quote from My Role Model</h1>
 
 <h2 align="center">
-<img src="https://email.uplers.com/blog/wp-content/uploads/2017/08/ThankYou-Email-Engagement-Thumbnail.jpg" alt="ThankYou"/>&nbsp;
+<img src="http://i.ibb.co/1fhX9TGM/Quote.png" alt="Quote"/>&nbsp;
+</h2>
+
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>&nbsp;
 </h2>
