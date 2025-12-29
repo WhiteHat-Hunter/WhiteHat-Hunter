@@ -9,7 +9,7 @@
 <img alt="hello" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDc3NjYsIm5iZiI6MTc2NzAwNzQ2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExMjQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNGY0MzU4YzUxNmI2Y2FlYjZmYzMyOTI5NzQzZGRiYWI5NjhmZTBmMTk2YTlhNjA1M2ZiMzIyMDRmMjkzOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fucfi6HQvzhRxsdCZoxOG8JhmvfWCW5ZTGAOGGEghvM" width="200" height="170"/>
 </p>
 <p>
-<h1 align="center"><b> I'm Siddhesh Surve <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70" height="70"/></b></h1>
+<h1 align="center"><b> I'm Siddhesh Surve [ ROOT X SIDZ ]<img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70" height="70"/></b></h1>
 </p>
 
 
@@ -19,8 +19,8 @@
 
 <br>
 
-<ul align="center">- 🔭 I'm A Post Graduated Computer Science Student.</ul>
-<ul align="center">- 🌱 I'm Also a Certified Ethical Hacker & Bug Bounty Hunter.</ul>
+<ul align="center">- 🔭 I'm A Post Graduated Computer Science Student & CEH MASTER [ELITE]</ul>
+<ul align="center">- 🌱 I'm Also a Cyber Security Analyst, Security Researcher & Bug Bounty Hunter.</ul>
 <ul align="center">- 🎯 2026 Goal: Become a Professional Red Team Operator.</ul>
 <ul align="center">- 💬 Ask Me Anything, related to Cyber Security and Penetration Testing, Ready to Help. 😄</ul>
 <ul align="center">- 📫 Reach me on - mailto:mr.siddhesh07@gmail.com </ul>
