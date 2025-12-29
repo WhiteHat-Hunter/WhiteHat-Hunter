@@ -10,11 +10,9 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line"/>
-
 <br>
 
-<h2 align="center"> ~ About Me <img alt="gif2" src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDg5MDYsIm5iZiI6MTc2NzAwODYwNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExNDMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyMmQ0NWRiNTA5NzA2ZjkwZGM4NDk0OTE5NGYzMjhkZDZhMjJmYzgwYTc0M2QwNjQ5OWZjODcxMGE4NTBkM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MdJYhh-Iv0aBiBM-RmaJXZK-3TVyRtHPH9zyUWhzYvM" width="60" height="60" ></h2>
+<h1 align="center"> ~ About Me <img alt="gif2" src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMDg5MDYsIm5iZiI6MTc2NzAwODYwNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDExNDMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyMmQ0NWRiNTA5NzA2ZjkwZGM4NDk0OTE5NGYzMjhkZDZhMjJmYzgwYTc0M2QwNjQ5OWZjODcxMGE4NTBkM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MdJYhh-Iv0aBiBM-RmaJXZK-3TVyRtHPH9zyUWhzYvM" width="60" height="60" ></h1>
 
 <br>
 
@@ -92,6 +90,7 @@
 <img src="http://i.ibb.co/1fhX9TGM/Quote.png" alt="Quote"/>&nbsp;
 </h2>
 
-<h2 align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>
-</h2>
+
+<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Eating-Snake"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line"/>
