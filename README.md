@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=WhiteHat-Hunter" />
+    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=WhiteHat-Hunter"  width="90" height="60" />
     
 </p>
 
