@@ -31,7 +31,8 @@
 <br>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.deno.dev/WhiteHat-Hunter/count.svg" />
+    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=WhiteHat-Hunter" />
+    
 </p>
 
 <br>
