@@ -49,7 +49,7 @@
 
 <br>
 
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Siddhesh07.png" alt="Your Image Badge" /></p>
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Siddhesh07.png" alt="[Your Image Badge](https://tryhackme.com/p/Mr.Siddhesh07)" width="170" height="120" /></p>
 
 <br>
 
