@@ -49,7 +49,7 @@
 
 <br>
 
-><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=336296" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=336296" style='border:none;'></iframe>
 
 <br>
 
