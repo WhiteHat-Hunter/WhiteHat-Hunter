@@ -45,6 +45,15 @@
 
 <br>
 
+<h1 align="center">🏳️ TRY HACK ME - Top 1% Global 🎮</h1>
+
+<br>
+
+<p align="center"><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=336296" style='border:none;'></iframe> </p>
+
+<br>
+
+
 <h1 align="center"> 🎯 SKILLS </h1>
 
 <br>
